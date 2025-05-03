@@ -1,30 +1,32 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
-} from "react-icons/si";
+import vsCodeIcon from "../../Assets/vs code.jpeg";
+import postmanIcon from "../../Assets/postman.jpeg";
+import jupyterIcon from "../../Assets/jupyter.png";
+import softrIcon from "../../Assets/softr.png";
+import mindcloudIcon from "../../Assets/mindcloud.avif";
+import makeIcon from "../../Assets/Make.png";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <img src={vsCodeIcon} alt="VS Code" style={{ width: "65px", height: "65px" }} />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <img src={postmanIcon} alt="Postman" style={{ width: "65px", height: "65px" }} />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <img src={jupyterIcon} alt="Jupyter" style={{ width: "65px", height: "65px" }} />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <img src={softrIcon} alt="Softr" style={{ width: "65px", height: "65px" }} />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <img src={makeIcon} alt="Make" style={{ width: "65px", height: "65px" }} />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <img src={mindcloudIcon} alt="MindCloud" style={{ width: "65px", height: "65px" }} />
       </Col>
     </Row>
   );
