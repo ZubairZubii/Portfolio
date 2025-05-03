@@ -21,7 +21,6 @@
     <a href="https://github.com/ZubairZubii/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ZubairZubii](https://github.com/ZubairZubii/Portfolio). Thanks!
 
@@ -68,4 +67,4 @@ You will find all the components used and can edit your information accordingly.
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/ZubairZubii" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
