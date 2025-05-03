@@ -12,9 +12,7 @@
 
 ![Image](https://github.com/user-attachments/assets/20801b11-d246-4775-bf17-eeb78be339f8)
 ![Image](https://github.com/user-attachments/assets/090e837b-30b6-4c68-ac9f-a019aeef9193)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/ZubairZubii/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/ZubairZubii/Portfolio?color=red&logo=github&style=for-the-badge)
+
 
 </center>
 
