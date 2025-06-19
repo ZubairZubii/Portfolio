@@ -10,7 +10,7 @@ import {
   DiGit,
   DiJava,
 } from "react-icons/di";
-import { SiExpress, SiNumpy, SiPytorch, SiOpencv } from "react-icons/si";
+import { SiExpress, SiNumpy, SiOpencv } from "react-icons/si";
 
 function Techstack() {
   return (
